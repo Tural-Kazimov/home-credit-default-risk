@@ -1,0 +1,9 @@
+NAME_CONTRACT_TYPE,NAME_INCOME_TYPE,count,default_rate
+Cash loans,Commercial associate,63652,7.839502293722115
+Cash loans,Pensioner,51993,5.466120439289904
+Cash loans,State servant,19836,5.9891107078039925
+Cash loans,Working,142719,9.943315185784654
+Revolving loans,Commercial associate,7965,4.645323289391086
+Revolving loans,Pensioner,3369,4.155535767289997
+Revolving loans,State servant,1867,3.267273701124799
+Revolving loans,Working,16055,6.434132668950483
