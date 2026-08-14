@@ -1,4 +1,4 @@
-NAME_CONTRACT_TYPE,NAME_INCOME_TYPE,count,default_rate
+NAME_CONTRACT_TYPE,NAME_INCOME_TYPE,count,repayment_difficulty_rate
 Cash loans,Commercial associate,63652,7.839502293722115
 Cash loans,Pensioner,51993,5.466120439289904
 Cash loans,State servant,19836,5.9891107078039925
