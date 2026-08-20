@@ -3,13 +3,16 @@
 
 # Raw Kaggle dataset
 data/application_train.csv
+
 # Python
 __pycache__/
 *.py[cod]
+
 # Jupyter
 .ipynb_checkpoints/
+
 # macOS
 .DS_Store
+
 # VS Code
-.vscode/data/preprocessed_data.csv
 data/preprocessed_data.csv
